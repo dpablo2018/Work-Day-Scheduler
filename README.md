@@ -6,14 +6,14 @@ The purpose to this is to create a simple daily schedule. The website will show 
 
 ###Technology used
 
-HTML
+-HTML
 
-CSS
+-CSS
 
-javascript
+-javascript
 
-jQuery
+-jQuery
 
-Bootstrap
+-Bootstrap
 
 ####Deez part 2
