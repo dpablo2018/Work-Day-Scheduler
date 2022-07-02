@@ -36,4 +36,4 @@ The purpose to this is to create a simple daily schedule. The website will show 
 
 -Bootstrap
 
-### Deez part 2
+
